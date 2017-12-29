@@ -1,0 +1,9 @@
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\bin\Debug\netcoreapp2.0\MyAssetData.deps.json
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\bin\Debug\netcoreapp2.0\MyAssetData.dll
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\bin\Debug\netcoreapp2.0\MyAssetData.pdb
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\obj\Debug\netcoreapp2.0\MyAssetData.csprojResolveAssemblyReference.cache
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\obj\Debug\netcoreapp2.0\MyAssetData.csproj.CoreCompileInputs.cache
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\obj\Debug\netcoreapp2.0\MyAssetData.AssemblyInfoInputs.cache
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\obj\Debug\netcoreapp2.0\MyAssetData.AssemblyInfo.cs
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\obj\Debug\netcoreapp2.0\MyAssetData.dll
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetData\obj\Debug\netcoreapp2.0\MyAssetData.pdb

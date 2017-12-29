@@ -1,0 +1,11 @@
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\bin\Debug\netcoreapp2.0\AssetServices.deps.json
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\bin\Debug\netcoreapp2.0\AssetServices.dll
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\bin\Debug\netcoreapp2.0\AssetServices.pdb
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\bin\Debug\netcoreapp2.0\MyAssetData.dll
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\bin\Debug\netcoreapp2.0\MyAssetData.pdb
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\obj\Debug\netcoreapp2.0\AssetServices.csprojResolveAssemblyReference.cache
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\obj\Debug\netcoreapp2.0\AssetServices.csproj.CoreCompileInputs.cache
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\obj\Debug\netcoreapp2.0\AssetServices.AssemblyInfoInputs.cache
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\obj\Debug\netcoreapp2.0\AssetServices.AssemblyInfo.cs
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\obj\Debug\netcoreapp2.0\AssetServices.dll
+C:\Users\Asim\source\repos\MyAssetManagementSystem\AssetServices\obj\Debug\netcoreapp2.0\AssetServices.pdb
